@@ -1,4 +1,4 @@
-name = "ddma-proxy"
+name = "cfw"
 main = "src/worker.js"
 compatibility_date = "2025-09-24"
 routes = ["ddma.the-clutch.fun/*"]
